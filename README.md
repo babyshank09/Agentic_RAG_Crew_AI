@@ -22,7 +22,7 @@ This project demonstrates an intelligent agentic system that leverages RAG capab
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Agentic_RAG_Crew_AI.git
+git clone https://github.com/babyshank09/Agentic_RAG_Crew_AI.git
 cd Agentic_RAG_Crew_AI
 ```
 
